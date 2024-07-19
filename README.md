@@ -5,4 +5,4 @@ Members involved in this project:
 1.Aakash Bharati
 2.Manasvi Kirti
 3.Khyati
-5.Yogesh Kumar
+4.Yogesh Kumar
